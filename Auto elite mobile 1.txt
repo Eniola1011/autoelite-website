@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AutoElite Motors</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Navbar -->
+  <header class="navbar">
+    <div class="logo">AutoElite</div>
+    <nav>
+      <ul class="nav-links">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Models</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Test Drive</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-text">
+      <h1>Experience the Future of Driving</h1>
+      <p>Explore our latest electric and luxury car models</p>
+      <a href="#" class="btn">Explore Models</a>
+    </div>
+  </section>
+
+  <!-- Features -->
+  <section class="features">
+    <div class="feature">
+      <h3>Electric Efficiency</h3>
+      <p>Zero emissions with maximum performance</p>
+    </div>
+    <div class="feature">
+      <h3>Advanced Safety</h3>
+      <p>AI-powered safety systems to keep you secure</p>
+    </div>
+    <div class="feature">
+      <h3>Luxury Comfort</h3>
+      <p>Designed for elegance and ultimate comfort</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; 2025 AutoElite Motors. All rights reserved.</p>
+    <div class="social-links">
+      <a href="#">Facebook</a> | <a href="#">Instagram</a> | <a href="#">LinkedIn</a>
+    </div>
+  </footer>
+
+</body>
+</html>
